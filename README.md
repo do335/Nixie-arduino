@@ -3,7 +3,7 @@ Nixie Tube Shield for Arduino
 
 <img width="600" height="600" src="https://github.com/do335/Nixie-arduino/blob/master/images/IMG_9085_small.jpg?raw=true"/>
 <img width="600" height="600" src="https://github.com/do335/Nixie-arduino/blob/master/images/IMG_9086_small.jpg?raw=true"/>
-<src="https://github.com/do335/Nixie-arduino/blob/master/images/IMG_9089_small.jpg?raw=true"/>
+<img width="600" height="450" src="https://github.com/do335/Nixie-arduino/blob/master/images/IMG_9089_small.jpg?raw=true"/>
 
 <br>
 <br>
